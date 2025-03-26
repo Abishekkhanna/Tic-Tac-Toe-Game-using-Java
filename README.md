@@ -3,10 +3,10 @@
 A simple **Tic-Tac-Toe** game built using **Java**! 🖥️✨ This game allows two players to play turn by turn until someone wins or the game ends in a draw.
 
 ## 📌 Features
-✅ Two-player turn-based gameplay 👥
-✅ Input validation for correct moves ⌨️
-✅ Detects winner or declares a draw 🏆
-✅ Simple & interactive console interface 🎭
+✅ Two-player turn-based gameplay 👥\
+✅ Input validation for correct moves ⌨️\
+✅ Detects winner or declares a draw 🏆\
+✅ Simple & interactive console interface 🎭\
 
 ## 🚀 How to Play?
 1. Run the program in a Java-supported environment. 🏃‍♂️
@@ -39,9 +39,9 @@ I learned this from my **well-wished teacher** **[Kunal Kushwaha](https://www.yo
 - **2D Array for Board Representation** 🎲
 
 ## 📌 To-Do (Future Enhancements)
-✅ Add a **graphical UI version** 🖥️
-✅ Implement **AI for single-player mode** 🤖
-✅ Improve input validation & error handling 🚀
+✅ Add a **graphical UI version** 🖥️\
+✅ Implement **AI for single-player mode** 🤖\
+✅ Improve input validation & error handling 🚀\
 
 
 ## 📝 License
